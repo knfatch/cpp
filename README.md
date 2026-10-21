@@ -1,1 +1,1 @@
-This repository is a collection of C++ projects that I have worked on either through school or done through personal time.
+This repository is a collection of C++ files that I have created for either reference or function.
